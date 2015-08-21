@@ -8,9 +8,9 @@
   <remote fetch="git://github.com/HIO-Project" name="qt5"/>
 
 
-  <project remote="yocto" revision="dora" name="poky" path="poky"/>
+  <project remote="yocto" revision="8e9e7e8def9b0b728937d34115f7165677c31bed" name="poky" path="poky"/>
 
-  <project remote="oe" revision="dora" name="meta-openembedded" path="meta-openembedded"/>
+  <project remote="oe" revision="e75ae8f50af3effe560c43fc63cfd1f39395f011" name="meta-openembedded" path="meta-openembedded"/>
 
   <!--add ben-->
   
