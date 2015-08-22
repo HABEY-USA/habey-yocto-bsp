@@ -5,7 +5,7 @@
 
   <remote fetch="git://git.yoctoproject.org" name="yocto"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
-  <remote fetch="github.com/HABEY-USA" name="habey"/>
+  <remote fetch="git://github.com/HABEY-USA" name="habey"/>
 
 
   <project remote="yocto" revision="8e9e7e8def9b0b728937d34115f7165677c31bed" name="poky" path="poky"/>
