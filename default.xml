@@ -5,7 +5,7 @@
 
   <remote fetch="git://git.yoctoproject.org" name="yocto"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
-  <remote fetch="git://github.com/HIO-Project" name="qt5"/>
+  <remote fetch="github.com/HABEY-USA" name="habey"/>
 
 
   <project remote="yocto" revision="8e9e7e8def9b0b728937d34115f7165677c31bed" name="poky" path="poky"/>
@@ -13,5 +13,6 @@
   <project remote="oe" revision="e75ae8f50af3effe560c43fc63cfd1f39395f011" name="meta-openembedded" path="meta-openembedded"/>
 
   <!--add ben-->
+  <project remote="habey" revision="dora" name="meta-habey" path="poky/"/>
   
 </manifest>
