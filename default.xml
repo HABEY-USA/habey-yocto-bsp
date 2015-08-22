@@ -13,6 +13,6 @@
   <project remote="oe" revision="e75ae8f50af3effe560c43fc63cfd1f39395f011" name="meta-openembedded" path="meta-openembedded"/>
 
   <!--add ben-->
-  <project remote="habey" revision="dora" name="meta-habey" path="poky"/>
+  <project remote="habey" revision="dora" name="meta-habey" path="meta-habey"/>
   
 </manifest>
