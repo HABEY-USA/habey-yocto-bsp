@@ -5,7 +5,7 @@
 
   <remote fetch="https://git.yoctoproject.org" name="yocto"/>
   <remote fetch="git://github.com/Freescale" name="freescale"/>
-  <--<remote fetch="git://git.openembedded.org" name="oe"/>-->
+  <!--<remote fetch="git://git.openembedded.org" name="oe"/>-->
   <remote fetch="git://github.com/openembedded" name="oe"/>
   <remote fetch="git://github.com/HIO-Project" name="qt5"/>
   <remote fetch="git://github.com/HABEY-USA" name="habey"/>
